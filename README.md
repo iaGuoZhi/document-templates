@@ -4,4 +4,5 @@
 
 `./docker_build.sh`
 
-`xelatex paper.tex`
+`make`
+

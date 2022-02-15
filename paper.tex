@@ -1,8 +1,9 @@
-\documentclass[twocolumn]{ctexart}
+\documentclass[twocolumn]{article}
+\usepackage{CJKutf8}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 
-\title{Latex}
+\title{LaTex}
 \author{Guo Zhi}
 \date{February 2022}
 
@@ -10,6 +11,7 @@
 \usepackage{graphicx}
 
 \begin{document}
+\begin{CJK}{UTF8}{gbsn}
 
 \maketitle
 
@@ -18,12 +20,13 @@
 \section{Introduction}
 
 Hello World
-
 你好，世界
 
 \section{Background}
 
 \bibliographystyle{plain}
 \bibliography{references}
+
+\end{CJK}
 \end{document}
 
