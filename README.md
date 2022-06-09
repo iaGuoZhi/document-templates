@@ -1,8 +1,5 @@
-## LaTex Template of iaGuoZhi
+# Document templates of iaGuoZhi
 
-## Run
+## Latex
 
-`./docker_build.sh`
-
-`make`
-
+## Markdown
