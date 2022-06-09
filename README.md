@@ -1,5 +1,7 @@
-# Document templates of iaGuoZhi
+# Marp
 
-## Latex
+## RUN
 
-## Markdown
+```
+marp slides.md -o slides.html
+```
