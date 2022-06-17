@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Ubuntu:wght@400;500&display=swap');
+
+.slidev-layout {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.slidev-layout.cover h1 {
+    font-family: 'Arial', sans-serif;
+}
+
+.slidev-layout.default, .slidev-layout.center h1 {
+    font-family: 'Ubuntu', sans-serif;
+}

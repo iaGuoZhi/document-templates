@@ -1,5 +1,8 @@
-# Document templates of iaGuoZhi
+# slidev-template-ipads
 
-## Latex
+长得和 IPADS 常见 PPT 模板差不多的 [Slidev](https://cn.sli.dev/) 模板。
 
-## Markdown Slides
+```sh
+yarn install # 安装依赖
+npx slidev # 预览
+```
